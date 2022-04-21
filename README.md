@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/KaisBoulakhlas/Article-preview-component.git) (master branch)
-- Live Site URL: [Add live site URL here](https://articlepreviewchallengez.netlify.app/)
+- Solution URL: [Github link](https://github.com/KaisBoulakhlas/Article-preview-component.git) (master branch)
+- Live Site URL: [Site Link](https://articlepreviewchallengez.netlify.app/)
 
 ## My process
 
